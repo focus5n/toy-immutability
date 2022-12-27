@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="71f3465a-1654-42dd-8948-a89d7baccf54" name="변경" comment="STUDY Immutability&#10;&#10;- Object.assign(target, source)">
+    <list default="true" id="71f3465a-1654-42dd-8948-a89d7baccf54" name="변경" comment="STUDY Freeze&#10;&#10;- Object.freeze(target)">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/immutability.js" beforeDir="false" afterPath="$PROJECT_DIR$/immutability.js" afterDir="false" />
     </list>
@@ -69,7 +69,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1672147024754</updated>
-      <workItem from="1672147026378" duration="2446000" />
+      <workItem from="1672147026378" duration="2548000" />
     </task>
     <task id="LOCAL-00001" summary="STUDY Immutability&#10;&#10;- Object.assign(target, source)">
       <created>1672148584940</created>
@@ -78,7 +78,14 @@
       <option name="project" value="LOCAL" />
       <updated>1672148584940</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="STUDY Freeze&#10;&#10;- Object.freeze(target)">
+      <created>1672149506928</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1672149506928</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -97,6 +104,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="STUDY Immutability&#10;&#10;- Object.assign(target, source)" />
-    <option name="LAST_COMMIT_MESSAGE" value="STUDY Immutability&#10;&#10;- Object.assign(target, source)" />
+    <MESSAGE value="STUDY Freeze&#10;&#10;- Object.freeze(target)" />
+    <option name="LAST_COMMIT_MESSAGE" value="STUDY Freeze&#10;&#10;- Object.freeze(target)" />
   </component>
 </project>

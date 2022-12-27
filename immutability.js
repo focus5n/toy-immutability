@@ -13,7 +13,7 @@ console.log("FAKE", object_02);
 console.log("IS EQUAL?", object_01 === object_02);
 console.log("\n==================================\n");
 
-// ========================================= //
+// =========================================================== //
 
 let object_03 = {type: 'FREEZE', reference: ['array', 'object']}
 
@@ -26,4 +26,7 @@ console.log("FREEZE SAVE ONLY POINTER", object_03);
 
 Object.freeze(object_03.reference);
 // object_03.reference.push('Number');
-console.log("FREEZE PROPERTY OBJECT", object_03);
+console.log("FREEZE PROPERTY OBJECT ALSO FOR IMMUTABILITY", object_03);
+console.log("\n==================================\n");
+
+// =========================================================== //
